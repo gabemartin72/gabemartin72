@@ -6,6 +6,8 @@ Whether it's analyzing and forecasting market trends, assessing property values,
 
 Join me on this journey as we redefine the standards of excellence in commercial real estate mass appraisal through innovation and forward-thinking approaches. Together, let's shape the future of real estate valuation.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabemartin72)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gabemartin72/gabemartin72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
