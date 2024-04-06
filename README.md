@@ -1,6 +1,6 @@
 ### Hi everyone!  👋
 
-![image](https://github.com/gabemartin72/gabemartin72/assets/121728689/73faaadc-0554-49ee-a014-5bf41ed75190)
+
 
 As an experienced commercial real estate appraiser,  I'm constantly seeking innovative ways to enhance our industry's efficiency and accuracy. My passion lies in exploring the potential of cutting-edge technologies to revolutionize real estate analytics, investment strategies, and mass appraisal techniques. Through the fusion of traditional expertise with advanced data science methodologies, we can unlock insights that were previously unimaginable, enabling smarter decision-making and more informed investments. 
 
